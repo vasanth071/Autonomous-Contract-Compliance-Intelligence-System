@@ -1,0 +1,671 @@
+{
+  "nodes": [
+    {
+      "id": "bcd7e1fb-0b12-42a1-985a-03b0e55fdbc2",
+      "label": "Either party may terminate this Agreement by providing thirty (30) calendar days",
+      "node_type": "obligation",
+      "doc_id": "49aea869-2730-4119-b7ff-ea96caa231eb"
+    },
+    {
+      "id": "40777380-ab2c-4690-abe2-f489ab487c17",
+      "label": "DataFlow Inc. shall process all personal data received from AcmeCorp in accordan",
+      "node_type": "obligation",
+      "doc_id": "49aea869-2730-4119-b7ff-ea96caa231eb"
+    },
+    {
+      "id": "46ebdac5-680c-4d77-ae82-ad904a2d7589",
+      "label": "DataFlow Inc. shall undergo an independent security audit annually (by Dec 31) a",
+      "node_type": "obligation",
+      "doc_id": "49aea869-2730-4119-b7ff-ea96caa231eb"
+    },
+    {
+      "id": "f892fc33-733d-4cf3-b391-70ebb719eee2",
+      "label": "DataFlow Inc. must maintain 99.5% uptime SLA. Failure for 3 consecutive months t",
+      "node_type": "obligation",
+      "doc_id": "49aea869-2730-4119-b7ff-ea96caa231eb"
+    },
+    {
+      "id": "5ab5126a-3a9e-4d32-b7a6-33d01dfd7c5b",
+      "label": "DataFlow Inc. shall notify AcmeCorp within 48 hours of a confirmed data breach, ",
+      "node_type": "obligation",
+      "doc_id": "49aea869-2730-4119-b7ff-ea96caa231eb"
+    },
+    {
+      "id": "a1e5adbb-fd09-4e20-b8b3-1f0a9097936c",
+      "label": "Agreement auto-renews annually unless either party provides 30 days' written not",
+      "node_type": "obligation",
+      "doc_id": "49aea869-2730-4119-b7ff-ea96caa231eb"
+    },
+    {
+      "id": "2a3d9db3-b50a-410d-a3ee-d14eebeadc30",
+      "label": "CONSULTANT agrees to exercise special skill to accomplish the following results ",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "85029acc-ed57-4fbb-9d64-542880a27fc1",
+      "label": "CONSULTANT shall provide the personnel listed below to perform the above-specifi",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "909fffd3-54aa-493b-a2a3-7bf3434874d9",
+      "label": "No person named in paragraph B of this Section, or his or her successor, shall b",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "0d937d66-cde0-464b-967e-1c8ab00c9460",
+      "label": "Such consent shall not be unreasonably withheld.",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "83323850-2a39-4887-abbf-6d28dce63253",
+      "label": "CONSULTANT\u2019S PROGRESS REPORTS AND/OR MEETINGS \n1) The CONSULTANT shall submit wr",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "d14399b9-4953-4d72-8e11-26955ad034f8",
+      "label": "2) The CONSULTANT\u2019s Project Manager shall meet with the COMMISSION\u2019s Contract Ma",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "e3677edf-2b8d-4ca3-b527-0d7624ae1151",
+      "label": "In consideration for CONSULTANT accomplishing said result, COMMISSION agrees to ",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "f61a086a-304c-4648-b1c9-116b48a6d7b3",
+      "label": "Transportation and subsistence costs shall not exceed the rates authorized to em",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "e1995b1e-277c-426b-84a1-c2ddf8cbf8e5",
+      "label": "CONSULTANT shall not exceed milestone cost estimates as shown in Exhibit B, exce",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "62dbfc5e-4547-4520-9ad3-8a36aa5f6054",
+      "label": "Invoices shall be submitted no later than 45calendar days after the performance ",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "82b5c776-6b4a-4ef0-bd64-dbb6d8c72095",
+      "label": "CONSULTANT's final invoice must be submitted within 60-calendar days after \nacce",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "3428b504-3c65-474d-b5bd-ddb1cdf124be",
+      "label": "This Agreement shall take effect on (DATE); contingent upon prior approval by th",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "67b5a1ad-364d-4cfe-a456-6b361b0424ff",
+      "label": "The Agreement shall end on (DATE), unless earlier \nterminated or extended by con",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "ef904208-eacb-452c-b8d9-8e2eb80f0700",
+      "label": "Within thirty days of the COMMISSION's \nreceipt of CONSULTANT's final billing, C",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "33ba8dcb-5b04-4d85-ad91-8df28465d891",
+      "label": "Thereafter, CONSULTANT shall have no further \nclaims against COMMISSION under th",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "287ac631-9bc1-45b4-be96-a3cf69d316b1",
+      "label": "CONSULTANT shall be liable for any and all reasonable costs incurred by \nCOMMISS",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "24c7d99c-f42c-4cf0-8664-bcca2b0ecaaf",
+      "label": "CONSULTANT shall be liable for any and all reasonable \ncosts incurred by COMMISS",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "772479b4-9e91-41f6-8ce8-9e0a57a9be39",
+      "label": "CONSULTANT shall exonerate, indemnify, defend, and hold harmless the COMMISSION ",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "b90d2cf9-f9f3-43f1-9f22-0a3bfe97d622",
+      "label": "CONSULTANT, at its sole cost and expense, for the full term of this Agreement, a",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "f9c7b4ce-8d00-4a68-8633-f8e871a88259",
+      "label": "Such insurance coverage shall be primary coverage as respects \nCOMMISSION and an",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "e086bc8e-a5a0-4f41-a7fc-8002bf17fe80",
+      "label": "If CONSULTANT utilizes one or more subconsultants in the performance of this Agr",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "10858e4d-f618-4724-8f35-a3927be45687",
+      "label": "This insurance \ncoverage shall not be required if the CONSULTANT has no employee",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "82b61412-7341-4349-8479-4ff53468893f",
+      "label": "This insurance coverage shall not be required if vehicle use by \nthe CONSULTANT ",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "dee36a49-8a37-47cc-af22-296bfdea6051",
+      "label": "Other Insurance Provisions \n1) If any insurance coverage required in this Agreem",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "e9cb4330-ea46-4f3e-92e7-fae42677d6fe",
+      "label": "For purposes of interpreting this requirement, a cost not exceeding 100% of the ",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "9f7278ac-ee8e-4e93-a7b2-f5e12fa42899",
+      "label": "2) All required Automobile and Comprehensive or Commercial General Liability Ins",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "a961186d-95b8-4037-a01e-2e2bf00ded6c",
+      "label": "3) All required insurance policies shall be endorsed to contain the following cl",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "f2aa014e-cc5e-4a06-8043-bff2adacfaba",
+      "label": "All Certificates of Insurance shall be delivered or \nsent to: \n \n \n \nSanta Cr CO",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "8cbada1c-224b-47fa-991b-07f80d26a870",
+      "label": "All Certificates of Insurance shall be delivered or \nsent to: \n \n \n \nSanta Cruz ",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "b13faf52-f940-4f04-beaf-2a1d56c420ac",
+      "label": "In the event said insurance coverage expires at any time or times \nduring the te",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "26979e06-3dfd-4b1a-a421-4629989334f4",
+      "label": "The COMMISSION will not \nbe responsible for any premiums or assessments on the p",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "cb88396d-255a-4b48-907c-7cfe9305951b",
+      "label": "6) If any insurance policy of CONSULTANT required by this document includes lang",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "64029a5e-58a3-430a-bd3d-39e35516679a",
+      "label": "7) CONSULTANT shall do all things required to be performed by it pursuant to its",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "c61becb5-cd25-4a02-8905-126aff4cc98b",
+      "label": "8) CONSULTANT shall cause the foregoing provisions to be inserted in all subcont",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "4ac8e28f-d13a-45aa-9c1f-b0e9fd01c176",
+      "label": "Notwithstanding the foregoing, both \nthe CONSULTANT and its insurers agree that ",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "8d4070d5-8dcd-49e2-aaa1-741e5ddb932c",
+      "label": "CONSULTANT warrants that in the performance of this \nAgreement, it shall exercis",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "d80d73e8-28e7-4689-9a47-4776369ff78f",
+      "label": "In the event of a conflict between the laws and lawful regulations of any govern",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "c7fecc9f-ed16-4d84-8c61-57a7b4a22240",
+      "label": "The COMMISSION agrees to cooperate and work with the CONSULTANT in an \neffort to",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "5aeb9a32-4c99-4d22-b4ab-b6e52ca58c76",
+      "label": "During and in relation to the performance of this Agreement, \nCONSULTANT agrees ",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "90d30dc2-75a8-41fe-85dd-c7a7dbef3d16",
+      "label": "Such action shall include, but not be limited to, the following: recruitment; ad",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "604f6fac-e9e7-4333-8120-2eb24f65942d",
+      "label": "The CONSULTANT agrees to post in conspicuous places, \navailable to employees and",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "ceb9d1d9-f07e-471f-8bf1-88b5707d3966",
+      "label": "CONSULTANT shall comply fully with all federal, State and local laws and regulat",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "bb3daf21-cabc-4ace-af2b-7ba93a9463bd",
+      "label": "The CONSULTANT\u2019s signature affixed herein, and dated, shall constitute a certifi",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "286706d1-3840-4333-a781-091ca5afc8cd",
+      "label": "Vendors, CONSULTANTs, and \nconsultants shall not engage in conduct that has an e",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "9cab34f2-a032-45ec-afa8-530d8254bc86",
+      "label": "If a license of any kind is required of CONSULTANT, its employees, agents, or su",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "fcf39085-57cd-404f-aa07-e7e8be67ef10",
+      "label": "COMMISSION agrees that CONSULTANT shall have the right to control the \nmanner an",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "042b987e-11f6-41f2-aeaa-51e4d8904373",
+      "label": "CONSULTANT is responsible for all insurance \n(workers compensation, unemployment",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "c42296ad-a704-4aca-b34e-fa73792bf5f0",
+      "label": "and Title 21, California Code of Regulations, Chapter 21, Section 2500 et seq., ",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "dd955a57-6eaf-45d0-b14e-995c3e3a816c",
+      "label": "All parties shall make such materials available at \ntheir respective offices at ",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "d4c2bcd3-e906-4d8d-837e-5b743b49a99b",
+      "label": "The COMMISSION and any state or federal auditor, or any duly authorized \nreprese",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "d8a97655-09fe-4b55-a879-585dbd27eb01",
+      "label": "Subcontracts in excess of $25,000 shall contain this provision.",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "a787c2aa-1728-44b5-b256-3f95e418980a",
+      "label": "INSPECTION OF WORK \n The CONSULTANT and any subconsultant shall permit the COMMI",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "01f22019-deb9-4046-9581-008b229a04c4",
+      "label": "CONSULTANT shall acknowledge in all reports and literature that the material is ",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "abc6d36c-a6e3-4e00-8256-ffcf2d14c03d",
+      "label": "CONSULTANT shall include in any subcontract with a third party for work under th",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "9831ae5f-f7b6-4c05-a175-a21ac9e081fe",
+      "label": "The CONSULTANT shall not utilize the work produced under this Agreement for any ",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "574e46d2-0eab-4472-a9b1-e59fba0e8aa0",
+      "label": "The CONSULTANT shall furnish the \nCOMMISSION all necessary copies of data needed",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "97dc8365-f871-4bea-bb46-80195870d81f",
+      "label": "Copies \nmay be made for CONSULTANT's records but shall not be furnished to other",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "5f775ed3-fd8a-4d8a-8f0c-b283a65d2bc9",
+      "label": "Such deliverables shall be deemed works made for hire and \nall rights in copyrig",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "52be843c-2469-48f9-8b6c-7c0b62415dde",
+      "label": "All information derived from these \ndeliverables is deemed confidential and may ",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "9a8b769f-d670-4937-8224-5d851fe7e8d3",
+      "label": "Any subcontract in excess of $25,000 entered into as a result of this contract, ",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "bc8bb394-7421-4da8-a98e-d92ba9d91dd7",
+      "label": "The CONSULTANT shall comply with OSHA regulations applicable to CONSULTANT regar",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "835beab1-2f6d-481b-9d52-3b8aaa284f62",
+      "label": "The CONSULTANT shall comply with safety instructions \nissued by the COMMISSION S",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "007aea46-abcb-46fa-be9d-b24b1ce6d6eb",
+      "label": "CONSULTANT \npersonnel shall wear hard hats and safety vests at all times while w",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "37f8d92d-b472-4823-8a72-1043290d8c1f",
+      "label": "The CONSULTANT shall \ncomply with all of the requirements set forth in Divisions",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "fa015a1a-6db7-4222-a22d-edfb13ec9e9e",
+      "label": "The \nCONSULTANT shall take all reasonably necessary precautions for safe operati",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "6941b431-9a25-4e56-8247-9a2fa8d748c6",
+      "label": "Any subcontract entered into as a result of this contract, shall contain all of ",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "03c76fd1-3cfb-46ea-a650-f41bbb3e28a8",
+      "label": "The CONSULTANT shall only commence work covered by an amendment after the amendm",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "4b6811ce-5566-4848-a055-4082e872d683",
+      "label": "There shall be no change in the CONSULTANT\u2019s Project Manager or members of the p",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "a709e9b8-bf4a-484d-9a44-88368f50b838",
+      "label": "No oral understanding or agreement not incorporated herein shall be binding on t",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "24a660e0-34c1-495f-9f45-806d8d2d426f",
+      "label": "This Agreement shall be construed under the laws of the State of California.",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "a5159984-bf5b-4cd9-9588-515a9499d4ab",
+      "label": "Pending final \nresolution of a dispute hereunder, CONSULTANT shall proceed dilig",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "abf12374-a86f-4ee7-9b82-4f353ba2352e",
+      "label": "Any dispute, other than audit, concerning a question of fact arising under this ",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "9620bbe1-7c0b-4827-aa66-6d27dcae3888",
+      "label": "The request for review must be submitted in writing.",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "bef5ccfe-61e7-447f-822b-3cc3fab2ff58",
+      "label": "Any dispute concerning a question of fact arising under an interim or post-compl",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "5347e106-1264-4218-88be-a38387401ba2",
+      "label": "The CONSULTANT shall perform the work contemplated with resources available with",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "0d44ead6-fdd9-4bb2-97ce-4e6dbb032f9a",
+      "label": "Any subcontract in excess of $25,000 entered into as a result of this contract, ",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "ebe94a08-2eaf-40d5-9578-0ace56f35dbd",
+      "label": "No substitution of subconsultants shall be valid until approved in writing by th",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "07f5abc6-22c4-439e-aa18-7ba6a64f17cf",
+      "label": "The CONSULTANT shall not assign the Agreement without the prior written consent ",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "4c810404-4180-429a-82f8-e09ccc0033aa",
+      "label": "For breach or violation of this \nwarranty, COMMISSION shall have the right in it",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "afd1e932-04ec-4b05-b186-51d171a12067",
+      "label": "The CONSULTANT \nwarrants that this Agreement was not obtained or secured through",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "4b014bbe-d90a-4312-84b0-33d2d2c05a4c",
+      "label": "All notices hereunder and communications regarding interpretation of the terms o",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "d730e585-83eb-486a-aa33-d784bd59b351",
+      "label": "Both of these parties for and in consideration \nof the payments to made, conditi",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "70dcba6d-8ea7-426e-9c6e-d841488e5632",
+      "label": "COMMISSION DESIGNEE: The Executive Director of COMMISSION, or his or her designe",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "f1904954-3cc2-4cab-b35d-5a0368985680",
+      "label": "The \ninvalidity in whole or in part of any term or condition of this Agreement s",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "579ff1d3-99c3-4a89-92bc-17767ce2d761",
+      "label": "Page 10 \n\uf0b7 \nExhibit B: Fee Schedule \n \nEach of the undersigned represents and wa",
+      "node_type": "obligation",
+      "doc_id": "531aba05-4510-42c4-ae17-f75d38b0f76c"
+    },
+    {
+      "id": "a7c742b2-2d15-4dd2-b7d1-3fe5a827a532",
+      "label": "In this agreement words and expression shall have the same meanings as are respe",
+      "node_type": "obligation",
+      "doc_id": "66b2267b-e571-4802-b9ac-0232d1458914"
+    },
+    {
+      "id": "1b63564c-88eb-4323-ab21-357c818243cb",
+      "label": "The following documents not inconsistent with these presents shall be deemed to ",
+      "node_type": "obligation",
+      "doc_id": "66b2267b-e571-4802-b9ac-0232d1458914"
+    },
+    {
+      "id": "d6d04f09-e5c0-4a9b-9e7e-bae6e5adff53",
+      "label": "the Contractor, \nand each shall be read and construed as an integral part of the",
+      "node_type": "obligation",
+      "doc_id": "5cd5ff7f-2ec5-4207-b265-0d8186e2ef9a"
+    },
+    {
+      "id": "e1cbb6aa-facb-4bb6-8199-18d544f33b5f",
+      "label": "Order of Precedence \n \nIn the event of any ambiguity or conflict between the Con",
+      "node_type": "obligation",
+      "doc_id": "5cd5ff7f-2ec5-4207-b265-0d8186e2ef9a"
+    },
+    {
+      "id": "1f819dd3-a9b8-47aa-a476-7613ebc274da",
+      "label": "The Owner hereby agrees to pay to the Contractor the Contract Price in considera",
+      "node_type": "obligation",
+      "doc_id": "5cd5ff7f-2ec5-4207-b265-0d8186e2ef9a"
+    },
+    {
+      "id": "0ccc278a-45b8-47f3-b5ce-28e136a8862d",
+      "label": "The Contract Price \nshall be the aggregate of: [amount of foreign currency in wo",
+      "node_type": "obligation",
+      "doc_id": "5cd5ff7f-2ec5-4207-b265-0d8186e2ef9a"
+    },
+    {
+      "id": "e85e2116-63b7-4726-ad65-1764f0a0dd55",
+      "label": "Payment shall be made by the Owner to the Contractor as per the provisions of Bi",
+      "node_type": "obligation",
+      "doc_id": "5cd5ff7f-2ec5-4207-b265-0d8186e2ef9a"
+    },
+    {
+      "id": "68c08b7a-587c-49d4-b409-eab8dc684540",
+      "label": "EFFECTIVE DATE FOR DETERMINING TIME FOR COMPLETION \n \n \nThe Completion period of",
+      "node_type": "obligation",
+      "doc_id": "5cd5ff7f-2ec5-4207-b265-0d8186e2ef9a"
+    },
+    {
+      "id": "43da5b22-0ffd-4c66-b7a1-34b75d42d69c",
+      "label": "It is Further understood and agreed that the \nGovernment of India is not and sha",
+      "node_type": "obligation",
+      "doc_id": "5cd5ff7f-2ec5-4207-b265-0d8186e2ef9a"
+    },
+    {
+      "id": "43d97df3-3556-4847-a474-98414f94e2da",
+      "label": "All vendor agreements must include a minimum 60 calendar day termination notice ",
+      "node_type": "requirement",
+      "doc_id": "459d98eb-ec80-4e27-8186-f918a0997aaf"
+    },
+    {
+      "id": "1830e4bc-b1e6-4de7-8abf-8aca37da5199",
+      "label": "Third-party data processors must comply with: AES-256 encryption at rest and in ",
+      "node_type": "requirement",
+      "doc_id": "459d98eb-ec80-4e27-8186-f918a0997aaf"
+    },
+    {
+      "id": "fb95868c-ff50-4854-b176-ce6898e5c392",
+      "label": "Data processing agreements must require breach notification within 24 hours of c",
+      "node_type": "requirement",
+      "doc_id": "459d98eb-ec80-4e27-8186-f918a0997aaf"
+    },
+    {
+      "id": "df4e6417-825a-4755-96dd-f059f23bf210",
+      "label": "Vendors processing sensitive data must provide SOC 2 Type II or ISO 27001 audit ",
+      "node_type": "requirement",
+      "doc_id": "459d98eb-ec80-4e27-8186-f918a0997aaf"
+    },
+    {
+      "id": "ff342bd8-389c-46c2-a173-005e42983971",
+      "label": "No single vendor agreement shall expose the organisation to penalties exceeding ",
+      "node_type": "requirement",
+      "doc_id": "459d98eb-ec80-4e27-8186-f918a0997aaf"
+    }
+  ],
+  "edges": [
+    {
+      "source": "bcd7e1fb-0b12-42a1-985a-03b0e55fdbc2",
+      "target": "43d97df3-3556-4847-a474-98414f94e2da",
+      "edge_type": "conflicts",
+      "confidence": 0.97,
+      "explanation": "The contract specifies a 30-day termination notice period (Section 3.1), which directly violates the corporate policy requiring a minimum 60-day termination notice period (Policy 4.2). This is a clear policy violation that requires immediate resolution."
+    },
+    {
+      "source": "40777380-ab2c-4690-abe2-f489ab487c17",
+      "target": "1830e4bc-b1e6-4de7-8abf-8aca37da5199",
+      "edge_type": "supports",
+      "confidence": 0.82,
+      "explanation": "The contract's data processing obligation (Section 5.2) broadly aligns with Policy 6.1's data processing standards. However, the contract does not explicitly specify AES-256 encryption, SOC 2 Type II, or data localisation requirements \u2014 it uses the more general phrase 'appropriate technical and organisational measures'."
+    },
+    {
+      "source": "46ebdac5-680c-4d77-ae82-ad904a2d7589",
+      "target": "df4e6417-825a-4755-96dd-f059f23bf210",
+      "edge_type": "supports",
+      "confidence": 0.88,
+      "explanation": "The contract's annual security audit requirement (Section 7.1) aligns with Policy 9.3's audit requirements. Both require annual independent security audits, though the contract does not specify SOC 2 Type II or ISO 27001 specifically."
+    },
+    {
+      "source": "f892fc33-733d-4cf3-b391-70ebb719eee2",
+      "target": "ff342bd8-389c-46c2-a173-005e42983971",
+      "edge_type": "conflicts",
+      "confidence": 0.93,
+      "explanation": "The contract allows penalties up to $50,000 per quarter (Section 8.3), which exceeds Policy 11.2's limit of $25,000 per quarter without executive committee approval. This financial exposure exceeds the policy threshold."
+    },
+    {
+      "source": "5ab5126a-3a9e-4d32-b7a6-33d01dfd7c5b",
+      "target": "fb95868c-ff50-4854-b176-ce6898e5c392",
+      "edge_type": "conflicts",
+      "confidence": 0.95,
+      "explanation": "The contract requires breach notification within 48 hours (Section 10.1), but Policy 8.1 mandates notification within 24 hours. The contract's timeline is twice as long as the policy requirement, creating a compliance gap."
+    }
+  ]
+}
